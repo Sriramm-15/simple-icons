@@ -18917,5 +18917,10 @@
 		"title": "Zyte",
 		"hex": "B02CCE",
 		"source": "https://www.zyte.com"
-	}
+	},
+	{
+		 "title": "LinkedIn",
+                 "hex": "#0077B5",
+                 "source": "https://img.icons8.com/color/48/linkedin.png"
+       }
 ]
